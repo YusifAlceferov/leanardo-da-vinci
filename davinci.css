@@ -41,3 +41,7 @@ span{
 }
 h2{text-align: center;
  color:red;}
+ .yazi{ color: rgb(184, 44, 44);
+	text-decoration-line: line-through;
+
+ }
