@@ -1,0 +1,43 @@
+.kutu
+{border: 2px solid black;
+	box-shadow: 5px 5px 10px 10px;
+		padding: 3px;
+		width: 500px;
+		height: 900px;
+		background-color: burlywood;
+		margin: 40px;
+}
+.sekil{
+		border: 2px solid black ;
+		width: 200px;
+		height: 120px;
+		background-color: burlywood;
+		margin-inline-start: 120px;
+		border-style: dotted;
+}
+.yusif{
+		border: 2px solid black ;
+		width: 120px;
+		height: 150px;
+		background-color: burlywood;
+margin-inline-start: 150px;
+		
+		border-style: dotted;
+}
+h1{text-align: center;
+		color:white;
+		text-decoration-line: underline;
+        font-style: italic;
+        text-shadow: 3px 8px 7px rgb(145, 97, 80);
+	
+}
+.yemek{ color: brown;
+   text-shadow: 4px 5px 6px rgb(145, 97, 80);
+}
+span{
+		background-color: burlywoode;
+  color: white;
+		letter-spacing: 2px;
+}
+h2{text-align: center;
+ color:red;}
